@@ -1,14 +1,15 @@
-package Pessoas;
+package src.pessoas;
 
-import Autenticacao.Autenticacao;
-import Autenticacao.Autenticavel;
+import src.autenticacao.Autenticacao;
+import src.autenticacao.Autenticavel;
+import src.pessoas.Funcionario;
 
-public class Gerente extends Funcionario implements Autenticavel{
+public class Gerente extends Funcionario implements src.autenticacao.Autenticavel{
 	
-	private Autenticacao autenticador;
+	private src.autenticacao.Autenticacao autenticador;
 
 	public Gerente() {
-		this.autenticador = new Autenticacao();
+		this.autenticador = new src.autenticacao.Autenticacao();
 	}
 	
 	public double getBonificacao() {

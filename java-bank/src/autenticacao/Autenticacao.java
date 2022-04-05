@@ -1,4 +1,4 @@
-package Autenticacao;
+package src.autenticacao;
 
 public class Autenticacao {
 	

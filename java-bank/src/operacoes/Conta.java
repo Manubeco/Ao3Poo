@@ -1,6 +1,6 @@
-package Operacoes;
+package src.operacoes;
 
-import Pessoas.Cliente;
+import src.pessoas.Cliente;
 
 public class Conta {
 
