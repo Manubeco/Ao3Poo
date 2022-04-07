@@ -1,4 +1,4 @@
-package Pessoas;
+package src.pessoas;
 
 public class Caixa extends Funcionario {
 	
