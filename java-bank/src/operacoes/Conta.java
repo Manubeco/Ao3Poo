@@ -4,7 +4,7 @@ import src.pessoas.Cliente;
 
 import java.util.Scanner;
 
-public class Conta {
+public abstract class Conta {
 
     private double saldo;
     private int agencia;
@@ -15,7 +15,7 @@ public class Conta {
         this.agencia = agencia;
         this.numero = numero;
         this.saldo = saldo;
-        System.out.println("Nova conta criada " + this.numero);
+        System.out.println("Nova conta criada " + this.numero+"\n");
     }
 
         public void sacar(double saque) {
