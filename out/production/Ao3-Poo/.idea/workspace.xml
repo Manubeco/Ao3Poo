@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99da78f-ccf6-4d60-8614-80dd845e854c" name="Changes" comment="Atualizado packages e camelCase">
-      <change afterPath="$PROJECT_DIR$/java-bank/src/operacoes/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-bank/src/operacoes/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-bank/src/operacoes/Conta.java" afterDir="false" />
+    <list default="true" id="b99da78f-ccf6-4d60-8614-80dd845e854c" name="Changes" comment="Implementado classes ContaCorrente e ContaPoupanca!">
+      <change beforePath="$PROJECT_DIR$/java-bank/src/operacoes/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-bank/src/operacoes/Home.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Ao3-Poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ao3-Poo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,9 @@
       <workItem from="1649007165601" duration="1630000" />
       <workItem from="1649092731903" duration="1907000" />
       <workItem from="1649119482128" duration="3163000" />
-      <workItem from="1649286236795" duration="4066000" />
+      <workItem from="1649286236795" duration="11668000" />
+      <workItem from="1649456452050" duration="3413000" />
+      <workItem from="1649519876440" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <created>1648855608908</created>
@@ -172,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1649122497904</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Método Try/Catch implementado!">
+      <created>1649293900057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649293900058</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implementado classes ContaCorrente e ContaPoupanca!">
+      <created>1649297190954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649297190954</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implementado classes ContaCorrente e ContaPoupanca!">
+      <created>1649298415220</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649298415220</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +215,9 @@
     <MESSAGE value="primeiro commit" />
     <MESSAGE value="primeiro commit (Simplificado)" />
     <MESSAGE value="Atualizado packages e camelCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizado packages e camelCase" />
+    <MESSAGE value="Método Try/Catch implementado!" />
+    <MESSAGE value="Implementado classes ContaCorrente e ContaPoupanca!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementado classes ContaCorrente e ContaPoupanca!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ao3Poo$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1649119662683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
